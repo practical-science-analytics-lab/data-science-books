@@ -6,13 +6,15 @@ Practical Science & Analytics Lab は、統計学・データサイエンス・�
 本リポジトリでは以下を公開します。
 
 - 書籍ごとのサポートページ
+- 演習問題回答
 - 正誤表
 - サンプルコード
 - 追加資料
 
 ## Books
 
-- Statistical Foundations（準備中）
+  1. [統計学実務基礎](./statistics/README.md)
+  2. [機械学習実務基礎](./machine_learning/README.md)
 
 ## License
 
