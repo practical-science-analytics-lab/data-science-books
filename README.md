@@ -13,8 +13,8 @@ Practical Science & Analytics Lab は、統計学・データサイエンス・�
 
 ## Books
 
-  1. [統計学実務基礎](./statistics/README.md)
-  2. [機械学習実務基礎](./machine_learning/README.md)
+  1. [統計学実務基礎](./books/statistics/README.md)
+  2. [機械学習実務基礎](./books/machine_learning/README.md)
 
 ## License
 
